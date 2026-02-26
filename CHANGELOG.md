@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.79.0 (2026-02-26)
+
+Full Changelog: [sdk-v0.78.0...sdk-v0.79.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.78.0...sdk-v0.79.0)
+
+### Features
+
+* add support for filesystem memory tools ([#599](https://github.com/anthropics/anthropic-sdk-typescript/issues/599)) ([1064199](https://github.com/anthropics/anthropic-sdk-typescript/commit/106419918ec0098cd74df5541dd7fd9134268f6e))
+
+
+### Bug Fixes
+
+* **docs/contributing:** correct pnpm link command ([16bf66c](https://github.com/anthropics/anthropic-sdk-typescript/commit/16bf66c4ab9334f2f817f29e8834ff82f1689e9e))
+* **internal:** skip tests that depend on mock server ([07417e5](https://github.com/anthropics/anthropic-sdk-typescript/commit/07417e521b35b01670cb0334aa3f23e77ba38cbc))
+* **zod:** use v4 import path for Zod ^3.25 compatibility ([#925](https://github.com/anthropics/anthropic-sdk-typescript/issues/925)) ([c6c0ac8](https://github.com/anthropics/anthropic-sdk-typescript/commit/c6c0ac8a3091ad83890fb6813e4a0ee2a6e45bba))
+
+
+### Documentation
+
+* streamline and standardize docs ([#687](https://github.com/anthropics/anthropic-sdk-typescript/issues/687)) ([dbdc5d3](https://github.com/anthropics/anthropic-sdk-typescript/commit/dbdc5d3c8246732c9b477a1503618243e13e9bd6))
+
 ## 0.78.0 (2026-02-19)
 
 Full Changelog: [sdk-v0.77.0...sdk-v0.78.0](https://github.com/anthropics/anthropic-sdk-typescript/compare/sdk-v0.77.0...sdk-v0.78.0)
